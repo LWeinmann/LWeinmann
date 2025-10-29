@@ -5,10 +5,10 @@
 
 ## Featured Projects
 
-### [project-1](https://github.com/LWeinmann/Hat-Hunt)
+### [Hat Hunt](https://github.com/LWeinmann/Hat-Hunt)
 A simple search and retrieve puzzle game involving a magician's hat.
 
-### [project-2 (in progress)](https://github.com/Fire-Horse27/Tea-Frog)
+### [Tea Frog (in progress)](https://github.com/Fire-Horse27/Tea-Frog)
 A task oriented game set in a tea shop run by frogs.
 
 ## Skills
