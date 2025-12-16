@@ -5,14 +5,14 @@
 
 ## Featured Projects
 
-### [Hat Hunt](https://github.com/LWeinmann/Hat-Hunt)
-A simple search and retrieve puzzle game involving a magician's hat.
-
-### [Tea Frog](https://github.com/Fire-Horse27/Tea-Frog)
+### [Tea Frog (Team project)](https://github.com/Fire-Horse27/Tea-Frog)
 A task oriented game set in a tea shop run by frogs.
 
+### [Hat Hunt (Personal project)](https://github.com/LWeinmann/Hat-Hunt)
+A simple search and retrieve puzzle game involving a magician's hat.
+
 ## Skills
-python · C++ · Java · Unity
+Python · C++ · Java · Unity
 
 <!--
 **LWeinmann/LWeinmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
